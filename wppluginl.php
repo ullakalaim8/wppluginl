@@ -11,6 +11,7 @@
  * @package Intellasphere
  * @category Core
  * @author Intellasphere
+ * GitHub Plugin URI: https://github.com/ullakalaim8/wppluginl
  */
  
  echo "welcome";
